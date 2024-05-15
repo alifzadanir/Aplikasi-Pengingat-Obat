@@ -28,6 +28,7 @@ public class DevicesConfig
         return config;
     }
 
+    //Runtime
     private void SetDefault()
     {
         config = new DevicesAddConfig("[Nama] ", "[Os] ", "Merek");

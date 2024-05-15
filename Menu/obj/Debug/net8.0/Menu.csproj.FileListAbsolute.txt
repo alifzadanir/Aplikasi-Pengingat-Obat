@@ -9,3 +9,15 @@ D:\TP KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.dll
 D:\TP KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\refint\Menu.dll
 D:\TP KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.pdb
 D:\TP KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\ref\Menu.dll
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\bin\Debug\net8.0\Menu.deps.json
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\bin\Debug\net8.0\Menu.dll
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\bin\Debug\net8.0\Menu.pdb
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.AssemblyInfoInputs.cache
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.AssemblyInfo.cs
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.csproj.CoreCompileInputs.cache
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.sourcelink.json
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.dll
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\refint\Menu.dll
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\Menu.pdb
+D:\TP_KPL\TUBESKPL\TUBESKPL\Menu\obj\Debug\net8.0\ref\Menu.dll

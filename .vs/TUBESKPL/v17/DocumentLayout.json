@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\",
+  "WorkspaceRootPath": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp kpl\\tubeskpl\\tubeskpl\\tubeskpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|solutionrelative:tubeskpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4807779-96EB-4E3C-ADE9-1C9E37D1AC93}|UnitTestAddDevices\\UnitTestAddDevices.csproj|d:\\tp_kpl\\tubeskpl\\tubeskpl\\unittestadddevices\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4807779-96EB-4E3C-ADE9-1C9E37D1AC93}|UnitTestAddDevices\\UnitTestAddDevices.csproj|solutionrelative:unittestadddevices\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp kpl\\tubeskpl\\tubeskpl\\tubeskpl\\devicesaddconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|solutionrelative:tubeskpl\\devicesaddconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp kpl\\tubeskpl\\tubeskpl\\tubeskpl\\devicesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|solutionrelative:tubeskpl\\devicesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F5E10A-9051-4FFC-BF72-5BA9D378DB52}|Menu\\Menu.csproj|d:\\tp kpl\\tubeskpl\\tubeskpl\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6F5E10A-9051-4FFC-BF72-5BA9D378DB52}|Menu\\Menu.csproj|d:\\tp_kpl\\tubeskpl\\tubeskpl\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F5E10A-9051-4FFC-BF72-5BA9D378DB52}|Menu\\Menu.csproj|solutionrelative:menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp kpl\\tubeskpl\\tubeskpl\\tubeskpl\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp_kpl\\tubeskpl\\tubeskpl\\tubeskpl\\devicesaddconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|solutionrelative:tubeskpl\\devicesaddconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp_kpl\\tubeskpl\\tubeskpl\\tubeskpl\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|solutionrelative:tubeskpl\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp_kpl\\tubeskpl\\tubeskpl\\tubeskpl\\devicesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|solutionrelative:tubeskpl\\devicesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|d:\\tp_kpl\\tubeskpl\\tubeskpl\\tubeskpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAA5DE6-CAF1-45B2-B02D-54534871780E}|TUBESKPL\\TUBESKPL.csproj|solutionrelative:tubeskpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Program.cs",
+              "DocumentMoniker": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Program.cs",
               "RelativeDocumentMoniker": "TUBESKPL\\Program.cs",
-              "ToolTip": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Program.cs",
+              "ToolTip": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Program.cs",
               "RelativeToolTip": "TUBESKPL\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T04:06:35.199Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu\\Menu.cs",
-              "ToolTip": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.cs",
-              "RelativeToolTip": "Menu\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T06:15:52.915Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DevicesConfig.cs",
-              "DocumentMoniker": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesConfig.cs",
+              "DocumentMoniker": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesConfig.cs",
               "RelativeDocumentMoniker": "TUBESKPL\\DevicesConfig.cs",
-              "ToolTip": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesConfig.cs",
+              "ToolTip": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesConfig.cs",
               "RelativeToolTip": "TUBESKPL\\DevicesConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T05:36:16.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Devices.cs",
+              "DocumentMoniker": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Devices.cs",
+              "RelativeDocumentMoniker": "TUBESKPL\\Devices.cs",
+              "ToolTip": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Devices.cs",
+              "RelativeToolTip": "TUBESKPL\\Devices.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAnwCcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:35:48.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DevicesAddConfig.cs",
-              "DocumentMoniker": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesAddConfig.cs",
+              "DocumentMoniker": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesAddConfig.cs",
               "RelativeDocumentMoniker": "TUBESKPL\\DevicesAddConfig.cs",
-              "ToolTip": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesAddConfig.cs",
+              "ToolTip": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\DevicesAddConfig.cs",
               "RelativeToolTip": "TUBESKPL\\DevicesAddConfig.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T05:35:59.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Devices.cs",
-              "DocumentMoniker": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Devices.cs",
-              "RelativeDocumentMoniker": "TUBESKPL\\Devices.cs",
-              "ToolTip": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\Devices.cs",
-              "RelativeToolTip": "TUBESKPL\\Devices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Menu.cs",
+              "ToolTip": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.cs",
+              "RelativeToolTip": "Menu\\Menu.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAjwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T05:35:48.515Z",
+              "WhenOpened": "2024-05-06T06:15:52.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\UnitTestAddDevices\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestAddDevices\\UnitTest1.cs",
+              "ToolTip": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\UnitTestAddDevices\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestAddDevices\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:02:24.017Z",
               "EditorCaption": ""
             }
           ]

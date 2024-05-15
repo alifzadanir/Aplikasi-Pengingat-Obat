@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj",
+      "projectUniqueName": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj",
       "projectName": "Menu",
-      "projectPath": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj",
+      "projectPath": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj",
       "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-      "outputPath": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\Menu\\obj\\",
+      "outputPath": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\Menu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config",

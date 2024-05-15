@@ -1,4 +1,4 @@
-﻿//Automata
+﻿//Automata / Statebased
 using TUBESKPL;
 
 public enum deviceState { BelumLogin, SudahLogin, Blocked, Suspended }

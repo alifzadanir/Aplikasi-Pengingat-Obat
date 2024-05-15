@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TUBESKPL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3739248156ef1c524ed791c36665e0f8521cdbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TUBESKPL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TUBESKPL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

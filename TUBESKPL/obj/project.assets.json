@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\TUBESKPL.csproj",
+      "projectUniqueName": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\TUBESKPL.csproj",
       "projectName": "TUBESKPL",
-      "projectPath": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\TUBESKPL.csproj",
+      "projectPath": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\TUBESKPL.csproj",
       "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-      "outputPath": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\obj\\",
+      "outputPath": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\TUBESKPL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj": {
-              "projectPath": "D:\\TP KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj"
+            "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj": {
+              "projectPath": "D:\\TP_KPL\\TUBESKPL\\TUBESKPL\\Menu\\Menu.csproj"
             }
           }
         }
