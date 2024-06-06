@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TUBESKPL", "TUBESKPL\TUBESK
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu", "Menu\Menu.csproj", "{C6F5E10A-9051-4FFC-BF72-5BA9D378DB52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestAddDevices", "UnitTestAddDevices\UnitTestAddDevices.csproj", "{C4807779-96EB-4E3C-ADE9-1C9E37D1AC93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestAddDevices", "UnitTestAddDevices\UnitTestAddDevices.csproj", "{C4807779-96EB-4E3C-ADE9-1C9E37D1AC93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiCerdik", "GuiCerdik\GuiCerdik.csproj", "{10CDD5B4-B2C8-4EB9-A23C-696CE290372C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C4807779-96EB-4E3C-ADE9-1C9E37D1AC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4807779-96EB-4E3C-ADE9-1C9E37D1AC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4807779-96EB-4E3C-ADE9-1C9E37D1AC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CDD5B4-B2C8-4EB9-A23C-696CE290372C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CDD5B4-B2C8-4EB9-A23C-696CE290372C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CDD5B4-B2C8-4EB9-A23C-696CE290372C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CDD5B4-B2C8-4EB9-A23C-696CE290372C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
