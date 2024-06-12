@@ -1,0 +1,59 @@
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.exe
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.deps.json
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.runtimeconfig.json
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.Properties.Resources.resources
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.GenerateResource.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfoInputs.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfo.cs
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\refint\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.genruntimeconfig.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\ref\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\DataSeluruh.pdb
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.AssemblyReference.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.Up2Date
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.Dashboard.resources
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.exe
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.deps.json
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.runtimeconfig.json
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\DataSeluruh.pdb
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.AssemblyReference.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.DashB.resources
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.Properties.Resources.resources
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.GenerateResource.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfoInputs.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfo.cs
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.Up2Date
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\refint\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.genruntimeconfig.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\obj\Debug\net8.0-windows\ref\Dashboard.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\HelpCenter.deps.json
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\HelpCenter.runtimeconfig.json
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\HelpCenter.exe
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\HelpCenter.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\Dashboard\bin\Debug\net8.0-windows\HelpCenter.pdb

@@ -1,0 +1,24 @@
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\bin\Debug\net8.0\DataSeluruh.deps.json
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\bin\Debug\net8.0\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\bin\Debug\net8.0\DataSeluruh.pdb
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.csproj.AssemblyReference.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.AssemblyInfoInputs.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.AssemblyInfo.cs
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.csproj.CoreCompileInputs.cache
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\refint\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.pdb
+C:\Users\nizar\Documents\Telkom\Tubes KPL\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\ref\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\bin\Debug\net8.0\DataSeluruh.deps.json
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\bin\Debug\net8.0\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\bin\Debug\net8.0\DataSeluruh.pdb
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.csproj.AssemblyReference.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.AssemblyInfoInputs.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.AssemblyInfo.cs
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.csproj.CoreCompileInputs.cache
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\refint\DataSeluruh.dll
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\DataSeluruh.pdb
+C:\Users\nizar\Documents\Telkom\Backup bismillah 3\GUI Cerdik\Dashboard\DataSeluruh\obj\Debug\net8.0\ref\DataSeluruh.dll

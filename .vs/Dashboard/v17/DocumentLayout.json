@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{328EB4E8-C814-417C-A0A0-141A96B6922E}|Dashboard\\Dashboard.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\dashboard\\dashb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328EB4E8-C814-417C-A0A0-141A96B6922E}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\dashb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328EB4E8-C814-417C-A0A0-141A96B6922E}|Dashboard\\Dashboard.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\dashboard\\dashb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328EB4E8-C814-417C-A0A0-141A96B6922E}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\dashb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE184CD-32DD-4DD9-8C9F-90B1EF803198}|Pertanyaan2\\Pertanyaan2.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\pertanyaan2\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AE184CD-32DD-4DD9-8C9F-90B1EF803198}|Pertanyaan2\\Pertanyaan2.csproj|solutionrelative:pertanyaan2\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED49661E-C744-4EB1-B0D5-3D06FCAB1359}|HelpCenter\\HelpCenter.csproj|c:\\users\\nizar\\documents\\telkom\\backup bismillah 3\\gui cerdik\\dashboard\\helpcenter\\helpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED49661E-C744-4EB1-B0D5-3D06FCAB1359}|HelpCenter\\HelpCenter.csproj|solutionrelative:helpcenter\\helpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE184CD-32DD-4DD9-8C9F-90B1EF803198}|Pertanyaan2\\Pertanyaan2.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\pertanyaan2\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE184CD-32DD-4DD9-8C9F-90B1EF803198}|Pertanyaan2\\Pertanyaan2.csproj|solutionrelative:pertanyaan2\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9E5A33-722F-4B2E-912A-F4C7BAFB2E92}|Pertanyaan1\\Pertanyaan1.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\pertanyaan1\\one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA9E5A33-722F-4B2E-912A-F4C7BAFB2E92}|Pertanyaan1\\Pertanyaan1.csproj|solutionrelative:pertanyaan1\\one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046AC32E-C0F4-4F23-8392-9CD4623EDB1C}|MenuPasien\\MenuPasien.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\menupasien\\menup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046AC32E-C0F4-4F23-8392-9CD4623EDB1C}|MenuPasien\\MenuPasien.csproj|solutionrelative:menupasien\\menup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED49661E-C744-4EB1-B0D5-3D06FCAB1359}|HelpCenter\\HelpCenter.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\helpcenter\\helpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED49661E-C744-4EB1-B0D5-3D06FCAB1359}|HelpCenter\\HelpCenter.csproj|solutionrelative:helpcenter\\helpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9E5A33-722F-4B2E-912A-F4C7BAFB2E92}|Pertanyaan1\\Pertanyaan1.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\pertanyaan1\\one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9E5A33-722F-4B2E-912A-F4C7BAFB2E92}|Pertanyaan1\\Pertanyaan1.csproj|solutionrelative:pertanyaan1\\one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046AC32E-C0F4-4F23-8392-9CD4623EDB1C}|MenuPasien\\MenuPasien.csproj|C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\menupasien\\menup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{046AC32E-C0F4-4F23-8392-9CD4623EDB1C}|MenuPasien\\MenuPasien.csproj|solutionrelative:menupasien\\menup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Two.cs",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan2\\Two.cs",
+              "RelativeDocumentMoniker": "Pertanyaan2\\Two.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan2\\Two.cs",
+              "RelativeToolTip": "Pertanyaan2\\Two.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:36:36.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Two.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan2\\Two.cs",
+              "RelativeDocumentMoniker": "Pertanyaan2\\Two.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan2\\Two.cs [Design]",
+              "RelativeToolTip": "Pertanyaan2\\Two.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:35:48.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "One.cs",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan1\\One.cs",
+              "RelativeDocumentMoniker": "Pertanyaan1\\One.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan1\\One.cs",
+              "RelativeToolTip": "Pertanyaan1\\One.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:30:43.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "One.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan1\\One.cs",
+              "RelativeDocumentMoniker": "Pertanyaan1\\One.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Pertanyaan1\\One.cs [Design]",
+              "RelativeToolTip": "Pertanyaan1\\One.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:30:15.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuP.cs",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\MenuPasien\\MenuP.cs",
+              "RelativeDocumentMoniker": "MenuPasien\\MenuP.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\MenuPasien\\MenuP.cs",
+              "RelativeToolTip": "MenuPasien\\MenuP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:29:51.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\MenuPasien\\MenuP.cs",
+              "RelativeDocumentMoniker": "MenuPasien\\MenuP.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\MenuPasien\\MenuP.cs [Design]",
+              "RelativeToolTip": "MenuPasien\\MenuP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:29:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelpC.cs",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\HelpCenter\\HelpC.cs",
+              "RelativeDocumentMoniker": "HelpCenter\\HelpC.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\HelpCenter\\HelpC.cs",
+              "RelativeToolTip": "HelpCenter\\HelpC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:05:36.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelpC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\HelpCenter\\HelpC.cs",
+              "RelativeDocumentMoniker": "HelpCenter\\HelpC.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\HelpCenter\\HelpC.cs [Design]",
+              "RelativeToolTip": "HelpCenter\\HelpC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:51:37.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashB.cs",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Dashboard\\DashB.cs",
+              "RelativeDocumentMoniker": "Dashboard\\DashB.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Dashboard\\DashB.cs",
+              "RelativeToolTip": "Dashboard\\DashB.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwDwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:59:49.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Dashboard\\DashB.cs",
+              "RelativeDocumentMoniker": "Dashboard\\DashB.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Backup bismillah 3\\GUI Cerdik\\Dashboard\\Dashboard\\DashB.cs [Design]",
+              "RelativeToolTip": "Dashboard\\DashB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:55:29.958Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
