@@ -1,0 +1,5 @@
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\tubes\tubes\obj\Debug\net8.0\tubes.csproj.AssemblyReference.cache
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\tubes\tubes\obj\Debug\net8.0\tubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\tubes\tubes\obj\Debug\net8.0\tubes.AssemblyInfoInputs.cache
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\tubes\tubes\obj\Debug\net8.0\tubes.AssemblyInfo.cs
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\tubes\tubes\obj\Debug\net8.0\tubes.csproj.CoreCompileInputs.cache
