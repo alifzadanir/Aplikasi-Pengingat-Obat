@@ -2,23 +2,16 @@ namespace GuiTema
 {
     public partial class Form1 : Form
     {
-        private readonly Dictionary<string, Action>themeAction;
-        private Dictionary<string, Action> themes;
-
+        private readonly Dictionary<string, Action> themes;
         public Form1()
         {
             InitializeComponent();
-            InitializeThemes();
-        }
-        private void InitializeThemes()
-        {
             themes = new Dictionary<string, Action>
             {
                 { "Default", SetDefaultTheme },
-                { "Dark", SetDarkTheme },
+                { "Gelap", SetDarkTheme },
             };
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             try
@@ -41,35 +34,44 @@ namespace GuiTema
 
         private void ApplyTheme(string theme)
         {
-            if (!themeAction.ContainsKey(theme))
+            if (!themes.ContainsKey(theme))
             {
                 MessageBox.Show("Tema yang dipilih tidak valid.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            themeAction[theme]();
+            themes[theme]();
         }
         private void SetDefaultTheme()
         {
-            SetTheme(SystemColors.Control, SystemColors.ControlText);
-        }
-
-        private void SetDarkTheme()
-        {
-            SetTheme(Color.FromArgb(45, 45, 48), Color.White, Color.FromArgb(28, 28, 28));
-        }
-        private void SetTheme(Color backColor, Color foreColor, Color? controlBackColor = null)
-        {
-            this.BackColor = backColor;
-            this.ForeColor = foreColor;
-
+            this.BackColor = SystemColors.Control;
+            this.ForeColor = SystemColors.ControlText;
             foreach (Control control in this.Controls)
             {
                 if (control is TextBox || control is Button || control is Label)
                 {
-                    control.BackColor = controlBackColor ?? backColor;
-                    control.ForeColor = foreColor;
+                    control.BackColor = SystemColors.Window;
+                    control.ForeColor = SystemColors.ControlText;
                 }
             }
+        }
+
+        private void SetDarkTheme()
+        {
+            this.BackColor = Color.FromArgb(45, 45, 48);
+            this.ForeColor = Color.White;
+            foreach (Control control in this.Controls)
+            {
+                if (control is TextBox || control is Button || control is Label)
+                {
+                    control.BackColor = Color.FromArgb(28, 28, 28);
+                    control.ForeColor = Color.White;
+                }
+            }
+        }
+        private bool IsValidTheme(string theme)
+        {
+            string[] validThemes = { "Default", "Gelap" };
+            return Array.Exists(validThemes, t => t.Equals(theme, StringComparison.OrdinalIgnoreCase));
         }
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -87,6 +89,11 @@ namespace GuiTema
         private void LogError(Exception ex)
         {
             System.IO.File.AppendAllText("error.log", $"{DateTime.Now}: {ex.Message}{Environment.NewLine}");
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

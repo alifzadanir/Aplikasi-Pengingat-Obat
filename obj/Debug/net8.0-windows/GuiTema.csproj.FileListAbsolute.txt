@@ -14,3 +14,5 @@ D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\refint\GuiTema.dll
 D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.pdb
 D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.genruntimeconfig.cache
 D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\ref\GuiTema.dll
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.Properties.Resources.resources
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuiTema")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc67cfd92e3582c08cf89590ece69fa55e6c69fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e7175707b0452efc0f465d23dfe4ab45ce052bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuiTema")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuiTema")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
